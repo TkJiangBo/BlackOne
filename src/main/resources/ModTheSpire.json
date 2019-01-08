@@ -1,0 +1,13 @@
+{
+  "modid": "STS_BlackOne",
+  "name": "黑崎一护（Kurosaki Ichigo）",
+  "author_list": [
+    "Jiangbo"
+  ],
+  "description": "Adds 黑崎一护",
+  "dependencies": [
+    "basemod"
+  ],
+  "version": "0.0.1",
+  "sts_version": "01-03-2019"
+}
